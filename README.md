@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm Dipak Das
-A passionate **3rd-year B.Tech Computer Science & Engineering student** at Guru Nanak Institute of Technology (GNIT).
+A passionate **4th-year B.Tech Computer Science & Engineering student** at Guru Nanak Institute of Technology (GNIT).
 
 ## 🔧 My Skillset
 <p align="center">
